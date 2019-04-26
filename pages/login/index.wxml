@@ -1,0 +1,5 @@
+<view class="content">
+  <view class="chantal-text-style chantal-text-style-current"> Get Started</view>
+  <image style='width:340px;heitht:340px;position:relative' mode='aspectFit' src='../../resource/icons/splash_bg.png'></image>
+
+</view>
