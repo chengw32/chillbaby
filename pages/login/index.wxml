@@ -1,5 +1,7 @@
 <view class="content">
-  <view class="chantal-text-style chantal-text-style-current"> Get Started</view>
-  <image style='width:340px;heitht:340px;position:relative' mode='aspectFit' src='../../resource/icons/splash_bg.png'></image>
+  <image class="content-title-image" mode="widthFix" src="../../resource/icons/title_image.png"></image>
+  <image class="content-hint-icon" mode="widthFix" src="../../resource/icons/hint_icon.png"></image>
+  <view class="chantal-text-style-current" bindtap="getStart"> Get Started</view>
+  <image class='content-img' mode='widthFix' src='../../resource/icons/splash_bg.png'></image>
 
 </view>

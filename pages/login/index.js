@@ -7,6 +7,9 @@ Page({
    
   },
 
+  getStart:function(){
+    console.log('123');
+  },
   onLoad: function () {
    
   },
